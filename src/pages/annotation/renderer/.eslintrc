@@ -1,0 +1,7 @@
+{
+    "root": false,
+    "rules": {
+        "no-unused-vars": "off",
+        "valid-typeof": "off"
+    }
+}
